@@ -1,4 +1,4 @@
-# 虚拟DOM和DON diff
+# 虚拟DOM和DOM diff
 
 
 ## 虚拟DOM
